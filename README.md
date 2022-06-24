@@ -2,7 +2,7 @@
 
 Simple receiptfile parser for oxalis for registration of incoming details for Peppol Reporting. An example only which should be customized for each individual situation.
 
-This is also an example on how to create a plugin for Oxalis
+This is also an example on how to create a plugin for Oxalis, tested with Oxalis version 5.2.0
 
 Details on Oxalis can be found at : https://github.com/OxalisCommunity/oxalis
 
